@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=b7e0e2&height=160&section=header&text=jihyeon's%20github&fontSize=40)
 
 ## Experience
-💻 SSAFY (삼성 청년 SW 아카데미) 10기 재학 (2023.07 ~ 2024.06) 
+💻 SSAFY (삼성 청년 SW 아카데미) 10기 (2023.07 ~ 2024.06) 
 
 💻 2023년 삼성 SDS 상반기 대학생 알고리즘 특강 (2023.01 ~ 2023.02)  
 
@@ -25,24 +25,29 @@
     <th>Skill, etc.</th>
   </tr>
   <tr>
-    <td><a href="">Giveus</a></td>
+    <td><a href="https://github.com/aws-cloudy/cloudys">Cloudy</a></td>
+    <td>AWS 서비스를 활용한 AWS Digital Learning Platform 개발 (2024) </td>
+    <td>SpringBoot, JPA, MySQL, Redis, AWS Lamda, Opensearch</td>
+  </tr>  
+  <tr>
+    <td><a href="https://github.com/give-us/giveus">Giveus</a></td>
     <td>블록체인을 이용한 병원비 크라우드 펀딩 프로젝트 (2024) </td>
     <td>SpringBoot, SpringSecurity, JPA, MySQL, SpringCloud, Jenkins, Docker</td>
   </tr>
   <tr>
-    <td><a href="">I & WE</a></td>
-    <td>출산부터 육아까지 통합 관리 서비스 (2024) </td>
-    <td>SpringBoot, SpringSecurity, JPA, MySQL, Jenkins, Docker</td>
-  </tr>
-  <tr>
-    <td><a href="">I'm gonna</a></td>
+    <td><a href="https://github.com/SSAFY-imgonna">I'm gonna</a></td>
     <td>공공데이터를 활용한 여행 계획 및 여행지 정보 공유 서비스 (2023) </td>
     <td>SpringBoot, MyBatis, MySQL, Vue3, Pinia</td>
   </tr>
   <tr>
-    <td><a href="">OurStudy</a></td>
+    <td><a href="https://github.com/seojihyeon99/ourstudy">OurStudy</a></td>
     <td>스터디카페 예약 및 관리 플랫폼 (2023) </td>
     <td>SpringBoot, MyBatis, Oracle</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/seojihyeon99/iandwe">I & WE</a></td>
+    <td>출산부터 육아까지 통합 관리 서비스 (2024) </td>
+    <td>SpringBoot, SpringSecurity, JPA, MySQL, Jenkins, Docker</td>
   </tr>
 </table>
 
@@ -79,9 +84,11 @@ Communication :
 <br />
 
 ## Awards
-🏆 삼성 청년 SW 아카데미 관통 프로젝트 최우수상 (2023.11)  
+🏆 삼성 청년 SW 아카데미 2학기 자율 프로젝트 최우수상 (2024.06)  
 
-🏆 삼성 청년 SW 아카데미 성적 우수상 (2023.11)  
+🏆 삼성 청년 SW 아카데미 1학기 관통 프로젝트 최우수상 (2023.11)  
+
+🏆 삼성 청년 SW 아카데미 1학기 성적 우수상 (2023.11)  
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gy_hyeon)](https://solved.ac/gy_hyeon)
