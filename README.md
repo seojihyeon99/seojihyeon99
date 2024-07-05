@@ -25,7 +25,7 @@
     <th>Skill, etc.</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/aws-cloudy/cloudys">Cloudy</a></td>
+    <td><a href="https://github.com/aws-cloudy/cloudy">Cloudy</a></td>
     <td>AWS 서비스를 활용한 AWS Digital Learning Platform 개발 (2024) </td>
     <td>SpringBoot, JPA, MySQL, Redis, AWS Lamda, Opensearch</td>
   </tr>  
