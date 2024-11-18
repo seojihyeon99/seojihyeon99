@@ -27,17 +27,17 @@
   <tr>
     <td><a href="https://github.com/aws-cloudy/cloudy">Cloudy</a></td>
     <td>AWS 서비스를 활용한 AWS Digital Learning Platform 개발 (2024) </td>
-    <td>SpringBoot, JPA, MySQL, Redis, AWS Lamda, Opensearch</td>
+    <td>Java, SpringBoot, JPA, MySQL, Redis, Jenkins, AWS API Gateway, AWS  Lamda, AWS OpenSearch, AWS CloudWatch</td>
   </tr>  
   <tr>
     <td><a href="https://github.com/give-us/giveus">Giveus</a></td>
     <td>블록체인을 이용한 병원비 크라우드 펀딩 프로젝트 (2024) </td>
-    <td>SpringBoot, SpringSecurity, JPA, MySQL, SpringCloud, Jenkins, Docker</td>
+    <td>Java, SpringBoot, JPA, MySQL, Redis, Spring Security, Spring Cloud Gateway, Jenkins, AWS EC2, Docker, Firebase</td>
   </tr>
   <tr>
     <td><a href="https://github.com/SSAFY-imgonna">I'm gonna</a></td>
     <td>공공데이터를 활용한 여행 계획 및 여행지 정보 공유 서비스 (2023) </td>
-    <td>SpringBoot, MyBatis, MySQL, Vue3, Pinia</td>
+    <td>Java, SpringBoot, MyBatis, MySQL, HTML, CSS, Javascript, Vue3, Pinia</td>
   </tr>
   <tr>
     <td><a href="https://github.com/seojihyeon99/ourstudy">OurStudy</a></td>
@@ -47,7 +47,7 @@
   <tr>
     <td><a href="https://github.com/seojihyeon99/iandwe">I & WE</a></td>
     <td>출산부터 육아까지 통합 관리 서비스 (2024) </td>
-    <td>SpringBoot, SpringSecurity, JPA, MySQL, Jenkins, Docker</td>
+    <td>Java, SpringBoot, JPA, MySQL, Spring Security, Jenkins, AWS EC2, Nginx, Docker</td>
   </tr>
 </table>
 
