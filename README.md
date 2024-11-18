@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=b7e0e2&height=160&section=header&text=jihyeon's%20github&fontSize=40)
 
-## Experience
+## Experiences
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 (2023.07 ~ 2024.06) 
 
 💻 2023년 삼성 SDS 상반기 대학생 알고리즘 특강 (2023.01 ~ 2023.02)  
@@ -13,7 +13,7 @@
 
 📌 2021년 대학생 통계교육 재능기부단 (2021.05 ~ 2021.12)
 
-🎓 전북대학교 통계학과, 컴퓨터공학과(복수) 졸업 (2019.03 ~ 2023.02) 
+🎓 전북대학교 통계학과, 컴퓨터공학과(복수) (2019.03 ~ 2023.02) 
 
 <br />
 
@@ -57,12 +57,12 @@
 Languages :
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>    
 
 Backend : 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -83,7 +83,7 @@ Infra :
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
-Communication : 
+Others : 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -95,7 +95,20 @@ Communication :
 
 🏆 삼성 청년 SW 아카데미 1학기 관통 프로젝트 최우수상 (2023.11)  
 
-🏆 삼성 청년 SW 아카데미 1학기 성적 우수상 (2023.11)  
+🏆 삼성 청년 SW 아카데미 1학기 성적우수상 (2023.11)  
+
+<br />
+
+## Certificates
+✔ 데이터분석 준전문가(ADsP) (2024.09)
+
+✔ PCCP 코딩전문역량인증 (2024.07)
+
+✔ 정보처리기사 (2024.06)
+
+✔ SQL 개발자(SQLD) (2024.04)
+
+<br />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gy_hyeon)](https://solved.ac/gy_hyeon)
