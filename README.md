@@ -5,6 +5,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=b7e0e2&height=160&section=header&text=jihyeon's%20github&fontSize=40)
 
 ## Experiences
+💻 POSCO DX 청년IT전문가 아카데미 9기 (2024.11 ~ 2025.05) 
+
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 - Java 전공 트랙 (2023.07 ~ 2024.06) 
 
 💻 2023년 삼성 SDS 상반기 대학생 알고리즘 특강 (2023.01 ~ 2023.02)  
