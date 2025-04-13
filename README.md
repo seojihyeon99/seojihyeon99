@@ -9,9 +9,7 @@
 
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 - Java 전공 트랙 (2023.07 ~ 2024.06) 
 
-💻 2023년 삼성 SDS 상반기 대학생 알고리즘 특강 (2023.01 ~ 2023.02)  
-
-💻 쌍용교육센터 AWS 클라우드 활용 자바(Java) Full-Stack 개발자 양성 과정 (2022.09 ~ 2023.03)
+💻 2023년 삼성 SDS 상반기 대학생 알고리즘 특강 (2023.01 ~ 2023.02) 
 
 📌 2021년 대학생 통계교육 재능기부단 (2021.05 ~ 2021.12)
 
@@ -70,7 +68,8 @@ Backend :
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">  
+  <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   
 Database : 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -93,11 +92,11 @@ Others :
 <br />
 
 ## Awards
-🏆 삼성 청년 SW 아카데미 2학기 자율 프로젝트 최우수상 (2024.06)  
+🏆 삼성 청년 SW 아카데미 2학기 자율 프로젝트 최우수상 - 기업연계 B반 1위 (2024.06)  
 
-🏆 삼성 청년 SW 아카데미 1학기 관통 프로젝트 최우수상 (2023.11)  
+🏆 삼성 청년 SW 아카데미 1학기 관통 프로젝트 최우수상 - 광주 5반 1위 (2023.11)  
 
-🏆 삼성 청년 SW 아카데미 1학기 성적우수상 (2023.11)  
+🏆 삼성 청년 SW 아카데미 1학기 성적우수상 - 광주 5반 1위 (2023.11)  
 
 <br />
 
